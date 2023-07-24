@@ -4,7 +4,7 @@
 
 -- Creating the schema for CSV files
 
-CREATE TABLE "campaign" (
+CREATE TABLE "campaign" ( 
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
     "company_name" VARCHAR   NOT NULL,
