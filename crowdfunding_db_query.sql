@@ -1,4 +1,4 @@
-SELECT * FROM public.campaign
+SELECT * FROM public.campaign 
 ORDER BY cf_id ASC LIMIT 100
 
 SELECT * FROM public.category
